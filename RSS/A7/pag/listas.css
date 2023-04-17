@@ -1,6 +1,0 @@
-#indice ul, ol, li{
-    list-style-type: none;
-}
-#indice li ul ol {
-    font-size: smaller;
-    }
