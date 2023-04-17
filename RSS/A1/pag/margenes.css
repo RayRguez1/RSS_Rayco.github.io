@@ -1,0 +1,20 @@
+
+#texto p{
+    margin-left: 2%;
+    padding-bottom: 500px;
+}
+#indice p{
+    margin-left: 2%;
+}
+#indice, #contenido{
+    overflow: auto;
+   } 
+
+
+#cabecera, #contenido, #indice, #piedepagina{
+    border:2px solid black;
+    } 
+
+    
+    
+
