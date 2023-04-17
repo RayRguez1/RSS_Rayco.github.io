@@ -1,0 +1,32 @@
+#imagen{
+    float: right;
+    width: 11%;}
+#cabecera{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+}
+#indice{
+    float: left;
+    position: absolute;
+    top: 13%;
+    left: 2%;
+    height: 75%;
+    width: 25%;
+}
+#contenido{
+    position: absolute;
+    top: 13%;
+    left: 30%;
+    width: 65%;
+    height: 75%;
+}
+#piedepagina{
+    position: absolute;
+    top: 89%;
+    left: 30%;
+    height: 10%;
+    width: 65%;
+}
